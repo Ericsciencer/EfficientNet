@@ -5,8 +5,6 @@
 ### 结果 | Result
 <img width="2480" height="1914" alt="efficientnet_training_curve" src="https://github.com/user-attachments/assets/228998f9-5a9c-4a30-8617-6ea6509af1f5" />
 
-<img width="560" height="559" alt="image" src="https://github.com/user-attachments/assets/1fa0b499-7aaf-42cb-b423-8a4db9e264fc" />
-
 参数/FLOPS与精度曲线：
 <img width="1015" height="399" alt="image" src="https://github.com/user-attachments/assets/ee7f9989-7bd9-4489-a2e4-2ad349365e89" />
 
