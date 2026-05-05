@@ -4,6 +4,8 @@
 
 ### 结果 | Result
 
+<img width="560" height="559" alt="image" src="https://github.com/user-attachments/assets/1fa0b499-7aaf-42cb-b423-8a4db9e264fc" />
+
 参数/FLOPS与精度曲线：
 <img width="1015" height="399" alt="image" src="https://github.com/user-attachments/assets/ee7f9989-7bd9-4489-a2e4-2ad349365e89" />
 
